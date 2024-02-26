@@ -1,1 +1,1 @@
-# Linear-Regression-from-Scratch
+# Linear-Regression-Implementation-from-Scratch
